@@ -1,4 +1,4 @@
-package com.Acstelic.serverannounce;
+package com.acstelic.serverannounce;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
