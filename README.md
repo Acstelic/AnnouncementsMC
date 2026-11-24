@@ -1,2 +1,7 @@
 # AnnouncementsMC
-Minecraft Plugin for announcements. Will in the future add more
+Minecraft Plugin for announcements.
+
+# Commands
+
+/announce <message> 
+/announce reload
